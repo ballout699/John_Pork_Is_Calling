@@ -14,10 +14,10 @@
   
   "startapp_id": "xxxxxxxx",
 
-  "Interstitial": "00",
-  "Banner": "000",
-  "Native": "000",
-  "Rewarded": "000",
+  "Interstitial": "applovin",
+  "Banner": "applovin",
+  "Native": "applovin",
+  "Rewarded": "applovin",
   
   
   "main_inter": true,
@@ -54,9 +54,9 @@
 	},
 	{
 	 "image": "https://k.top4top.io/p_2672j6j2b1.png",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "title": "John Pork Is Calling",
+	 "text": "John Pork Is Calling Download",
+	 "text_two": "Download now ",
 
 	 "isLocked": true,
 	 "id": 2
@@ -74,9 +74,9 @@
 	},
 	{
 	"image": "https://k.top4top.io/p_2672j6j2b1.png",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "title": "John Pork Is Calling",
+	 "text": "download John Pork Is Calling",
+	 "text_two": "donwload John Pork Is Calling",
 
 	 "isLocked": false,
 	 "id": 4
@@ -84,9 +84,9 @@
 	},
 	{
 	"image": "https://k.top4top.io/p_2672j6j2b1.png",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "title": " John Pork Is Calling",
+	 "text": "donwload John Pork Is Calling",
+	 "text_two": "donwload John Pork Is Calling",
 
 	 "isLocked": false,
 	 "id": 5
@@ -94,9 +94,9 @@
 	},
 	{
 	"image": "https://k.top4top.io/p_2672j6j2b1.png",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "title": " John Pork Is Calling",
+	 "text": "donwload John Pork Is Calling",
+	 "text_two": "donwload John Pork Is Calling",
 
 	 "isLocked": false,
 	 "id": 6
